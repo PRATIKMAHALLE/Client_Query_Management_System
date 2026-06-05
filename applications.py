@@ -18,7 +18,7 @@ def get_db_connection():
         mydb = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="Pratik28@", 
+            password="Pratik28@",
             database='querysystem',
             autocommit=True
         )
