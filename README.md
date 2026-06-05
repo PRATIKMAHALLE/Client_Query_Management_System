@@ -1,4 +1,4 @@
-# guviDataScienceProject1
+# Client_Query_Management_System
 Client Query Management System: Organizing, Tracking, and Closing Support Queries
 Problem Statement:
 The Client Query Management System aims to provide a real-time interface for clients to submit queries and for support teams to manage them efficiently. The system uses a CSV dataset to simulate initial query logs, stores them in MySQL, and displays/query/modify them using Streamlit dashboards. The primary goal is to enhance communication between clients and support agents, improve query resolution speed, and track query status and performance metrics.
